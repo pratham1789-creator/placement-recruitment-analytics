@@ -1,0 +1,31 @@
+company_id,company_name,company_tier,website,linkedin,location
+1,TechNova Solutions,2,https://www.technovasolutions.com,https://www.linkedin.com/company/technova-solutions,Gurgaon
+2,DataSphere Analytics,2,https://www.datasphereanalytics.com,https://www.linkedin.com/company/datasphere-analytics,Chennai
+3,FinEdge Technologies,2,https://www.finedgetechnologies.com,https://www.linkedin.com/company/finedge-technologies,Mumbai
+4,CloudMatrix Systems,1,https://www.cloudmatrixsystems.com,https://www.linkedin.com/company/cloudmatrix-systems,Gurgaon
+5,InsightWorks,1,https://www.insightworks.com,https://www.linkedin.com/company/insightworks,Pune
+6,NextGen Digital,2,https://www.nextgendigital.com,https://www.linkedin.com/company/nextgen-digital,Noida
+7,BluePeak Technologies,3,https://www.bluepeaktechnologies.com,https://www.linkedin.com/company/bluepeak-technologies,Bangalore
+8,CodeCraft Solutions,2,https://www.codecraftsolutions.com,https://www.linkedin.com/company/codecraft-solutions,Kolkata
+9,Vertex Analytics,1,https://www.vertexanalytics.com,https://www.linkedin.com/company/vertex-analytics,Kolkata
+10,InnovateLabs,2,https://www.innovatelabs.com,https://www.linkedin.com/company/innovatelabs,Chennai
+11,BrightPath Systems,2,https://www.brightpathsystems.com,https://www.linkedin.com/company/brightpath-systems,Hyderabad
+12,CoreStack Technologies,2,https://www.corestacktechnologies.com,https://www.linkedin.com/company/corestack-technologies,Noida
+13,AlphaByte Solutions,2,https://www.alphabytesolutions.com,https://www.linkedin.com/company/alphabyte-solutions,Hyderabad
+14,QuantumWorks,2,https://www.quantumworks.com,https://www.linkedin.com/company/quantumworks,Ahmedabad
+15,Nexora Technologies,3,https://www.nexoratechnologies.com,https://www.linkedin.com/company/nexora-technologies,Chennai
+16,DataBridge,2,https://www.databridge.com,https://www.linkedin.com/company/databridge,Hyderabad
+17,GrowthAxis,1,https://www.growthaxis.com,https://www.linkedin.com/company/growthaxis,Bangalore
+18,SmartGrid Solutions,2,https://www.smartgridsolutions.com,https://www.linkedin.com/company/smartgrid-solutions,Gurgaon
+19,LogicTree Systems,2,https://www.logictreesystems.com,https://www.linkedin.com/company/logictree-systems,Kolkata
+20,Proxima Analytics,1,https://www.proximaanalytics.com,https://www.linkedin.com/company/proxima-analytics,Pune
+21,CloudVista,1,https://www.cloudvista.com,https://www.linkedin.com/company/cloudvista,Gurgaon
+22,DigitalCore,2,https://www.digitalcore.com,https://www.linkedin.com/company/digitalcore,Chennai
+23,TechBridge,2,https://www.techbridge.com,https://www.linkedin.com/company/techbridge,Pune
+24,ScalePoint,2,https://www.scalepoint.com,https://www.linkedin.com/company/scalepoint,Ahmedabad
+25,DataOrbit,2,https://www.dataorbit.com,https://www.linkedin.com/company/dataorbit,Gurgaon
+26,FinTechWorks,2,https://www.fintechworks.com,https://www.linkedin.com/company/fintechworks,Chennai
+27,CodeVista,2,https://www.codevista.com,https://www.linkedin.com/company/codevista,Mumbai
+28,Analytica Systems,3,https://www.analyticasystems.com,https://www.linkedin.com/company/analytica-systems,Ahmedabad
+29,PrimeStack,1,https://www.primestack.com,https://www.linkedin.com/company/primestack,Noida
+30,InsightEdge,2,https://www.insightedge.com,https://www.linkedin.com/company/insightedge,Bangalore

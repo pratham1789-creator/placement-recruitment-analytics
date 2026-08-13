@@ -1,0 +1,61 @@
+job_id,company_id,job_title,job_type,location,exp_required
+1,10,Business Analyst,Full-time,Pune,5
+2,5,Product Analyst,Internship,Hyderabad,4
+3,5,Reporting Analyst,Internship,Hyderabad,1
+4,16,Product Analyst,Full-time,Kolkata,1
+5,16,Business Intelligence Analyst,Full-time,Noida,2
+6,27,SQL Developer,Contract,Delhi,2
+7,1,SQL Developer,Full-time,Bangalore,3
+8,18,Product Analyst,Internship,Hyderabad,5
+9,16,Python Developer,Internship,Chennai,1
+10,3,Reporting Analyst,Full-time,Bangalore,2
+11,2,Business Intelligence Analyst,Full-time,Kolkata,2
+12,6,SQL Developer,Contract,Chennai,4
+13,17,Business Analyst,Contract,Gurgaon,2
+14,25,Product Analyst,Full-time,Kolkata,0
+15,25,SQL Developer,Contract,Bangalore,3
+16,4,Data Scientist,Full-time,Delhi,3
+17,9,Software Engineer,Full-time,Chennai,0
+18,25,Data Scientist,Full-time,Ahmedabad,5
+19,12,Reporting Analyst,Internship,Noida,4
+20,5,Data Scientist,Full-time,Delhi,4
+21,12,Product Analyst,Full-time,Ahmedabad,4
+22,6,Software Engineer,Full-time,Mumbai,4
+23,9,Product Analyst,Full-time,Noida,3
+24,30,Data Analyst,Full-time,Noida,5
+25,28,Operations Analyst,Full-time,Noida,5
+26,11,Data Scientist,Internship,Chennai,1
+27,19,Business Intelligence Analyst,Internship,Hyderabad,3
+28,3,Business Analyst,Internship,Kolkata,5
+29,9,Software Engineer,Internship,Chennai,2
+30,19,Data Analyst,Full-time,Chennai,5
+31,22,Software Engineer,Full-time,Kolkata,3
+32,7,Python Developer,Full-time,Chennai,2
+33,11,Business Intelligence Analyst,Full-time,Kolkata,4
+34,5,Reporting Analyst,Internship,Pune,5
+35,25,Data Analyst,Full-time,Gurgaon,5
+36,26,SQL Developer,Full-time,Gurgaon,1
+37,15,SQL Developer,Full-time,Hyderabad,1
+38,23,Operations Analyst,Full-time,Noida,2
+39,3,Software Engineer,Full-time,Gurgaon,2
+40,22,Operations Analyst,Full-time,Hyderabad,5
+41,10,Data Scientist,Internship,Gurgaon,5
+42,4,Data Analyst,Full-time,Chennai,0
+43,5,Reporting Analyst,Full-time,Kolkata,5
+44,15,Data Analyst,Full-time,Pune,0
+45,28,Python Developer,Full-time,Chennai,0
+46,8,Python Developer,Full-time,Gurgaon,0
+47,11,Software Engineer,Full-time,Noida,3
+48,25,Operations Analyst,Full-time,Gurgaon,4
+49,19,Data Analyst,Contract,Noida,3
+50,12,Data Scientist,Full-time,Hyderabad,4
+51,22,SQL Developer,Full-time,Gurgaon,0
+52,5,Business Analyst,Contract,Hyderabad,2
+53,14,Software Engineer,Full-time,Bangalore,2
+54,21,Business Analyst,Full-time,Kolkata,4
+55,20,Reporting Analyst,Full-time,Delhi,5
+56,29,Business Intelligence Analyst,Full-time,Kolkata,4
+57,17,Data Scientist,Internship,Mumbai,5
+58,2,Data Scientist,Internship,Hyderabad,0
+59,8,SQL Developer,Contract,Gurgaon,4
+60,29,Data Analyst,Full-time,Pune,1
