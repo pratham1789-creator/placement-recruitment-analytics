@@ -20,6 +20,16 @@ The project follows an end-to-end analytics workflow:
 
 **Data Generation → Data Storage → SQL Analysis → Power BI Dashboard → Business Insights**
 
+## Dashboard Preview
+
+### Executive Overview
+
+![Placement & Recruitment Analytics Dashboard](dashboard/dashboard_overview.png)
+
+### Recruitment Performance
+
+![Recruitment Performance Dashboard](dashboard/recruitment_performance.png)
+
 ---
 
 ## Business Questions
